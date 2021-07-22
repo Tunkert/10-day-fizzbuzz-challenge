@@ -1,0 +1,16 @@
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/bin/Debug/net5.0/fizzbuzz
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/bin/Debug/net5.0/fizzbuzz.deps.json
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/bin/Debug/net5.0/fizzbuzz.runtimeconfig.json
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/bin/Debug/net5.0/fizzbuzz.runtimeconfig.dev.json
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/bin/Debug/net5.0/fizzbuzz.dll
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/bin/Debug/net5.0/ref/fizzbuzz.dll
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/bin/Debug/net5.0/fizzbuzz.pdb
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/fizzbuzz.csproj.AssemblyReference.cache
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/fizzbuzz.AssemblyInfoInputs.cache
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/fizzbuzz.AssemblyInfo.cs
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/fizzbuzz.csproj.CoreCompileInputs.cache
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/fizzbuzz.dll
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/ref/fizzbuzz.dll
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/fizzbuzz.pdb
+/home/tunkert/Coding/fizzbuzz/fizzbuzz/obj/Debug/net5.0/fizzbuzz.genruntimeconfig.cache
