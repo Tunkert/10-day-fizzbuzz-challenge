@@ -1,0 +1,4 @@
+i<CR>1<Esc>qwyyp0<c-a><Esc>w98@w
+ggqw3jdwifizz<Esc>0w32@w
+ggqw5jdwibuzz<Esc>0w19@w
+ggqw15jdwifizzbuzz<Esc>0w5@w
